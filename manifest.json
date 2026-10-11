@@ -1,0 +1,34 @@
+{
+  "manifest_version": "1.0",
+  "org": "tox-dev",
+  "repo": "velodex-data",
+  "versions": [
+    {
+      "commit": "9a3a52f8ec0d34e3fc55364aa337add1730c2404",
+      "parsed_at": "2026-10-11T22:44:21.244328+00:00",
+      "filetree": "filetree/9a3a52f8ec0d34e3fc55364aa337add1730c2404.nq.gz",
+      "blobs": [
+        "blob/359ea0c5d10e319e3d89e13d58423f5b2f18938e.nq.gz",
+        "blob/e7681097d73b7ed2ec6dfc0082a1662de499e204.nq.gz",
+        "blob/7c60a475734b98d76f33ee03f87fdc60fcd0e5e7.nq.gz",
+        "blob/939387f6cc8ae8f72eda7509422d1b94fbcf2cf9.nq.gz",
+        "blob/5fa6404308612356a07a5437eb800c384d624ab0.nq.gz",
+        "blob/37464c3f4f85fc42e75096333d3d680679d94a18.nq.gz",
+        "blob/5046d779c56d2860a70740532e02e2917567fe95.nq.gz",
+        "blob/4a3d04f2d6da356c2659ce870b7d484061772089.nq.gz",
+        "blob/4775f56a41a0de1d5b9ec9a095c5dfc56f749e93.nq.gz",
+        "blob/aaeffdb30360160bf4038f2cceacdb3420231474.nq.gz",
+        "blob/6f47eba7b2d0ed013eaa049d2d5950d86ff1de06.nq.gz",
+        "blob/1e8f52b099c14f49388c45373d0270a847dc25df.nq.gz",
+        "blob/91f46246e1eac0f3612aa1fa6a2586b9d752d14d.nq.gz",
+        "blob/9d8623c9aef83d5bc5eaeef3bb42591edb8e2cfb.nq.gz",
+        "blob/db759d1a60fdcf16453886c5aaac6ff8a16eb184.nq.gz",
+        "blob/62dd87bd2a694646bec030081e855ed78dd7f36f.nq.gz",
+        "blob/42928c6ac324f6156e25d7e92a3d236f2dbc07ef.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
